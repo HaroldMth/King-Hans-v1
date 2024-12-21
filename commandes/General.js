@@ -112,14 +112,14 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💞" }, async (dest, zk
 
     const devs = [
 
-      { nom: "David Cyril", numero: "2349066528353" },
+      { nom: "Hans Tech", numero: "237696900612" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
 
     ];
 
 
 
-    let message = "Yowaimo!!!👋 welcome to *Gojou-MD* ! here is the dev :\n\n";
+    let message = "Yowaimo!!!👋 Merci dutiliser King Hans Md ! Voici le dev :\n\n";
 
     for (const dev of devs) {
 
@@ -189,7 +189,7 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
 
   repondre("look on pm sir ")
 
-  await zk.sendMessage(auteurMessage,{text : `https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O`},{quoted :ms})
 
 
 
