@@ -1,5 +1,5 @@
 {
-  "name": "Gojou-MD",
+  "name": "King-Hans-MD",
   "version": "1",
   "description": "",
   "main": "index.js",
@@ -16,11 +16,11 @@
     "whatsapp",
     "whatsapp-bot",
     "David Cyril",
-    "Gojou-MD",
-    "DeeCeeXxx",
-    "Gojou-MD"
+    "King-Hans-MD",
+    "Hans-Tech",
+    "KING HANS"
   ],
-  "author": "David Cyril",
+  "author": "Hans",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
